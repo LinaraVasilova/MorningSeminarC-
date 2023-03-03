@@ -1,4 +1,5 @@
-﻿// int num1 = -12;
+﻿First seminar ended
+// int num1 = -12;
 // int num2 = 6;
 // double bigNum = -12.13;
 // bool isEven = true;
